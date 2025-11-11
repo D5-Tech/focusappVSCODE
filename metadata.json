@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow Simulator",
+  "description": "A web-based simulation of a mobile app designed to help users reduce screen time by blocking distracting content on social media platforms like YouTube and Instagram. Includes usage stats and an AI-powered content analysis feature.",
+  "requestFramePermissions": []
+}
